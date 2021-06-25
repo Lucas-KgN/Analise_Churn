@@ -1,4 +1,4 @@
-# Case BI - Petlove
+# Aviso problema com o github e a biblioteca plotly - Case BI - Petlove
 
 Para a exibição de alguns gráficos eu utilizei a biblioteca plotly que possui gráficos interativos e maiores detalhes na exibição dos dados. Porém o github não apresenta os gráficos feitos, portanto será preciso acessar o seguinte link que leva para o Jupyter Notebook Viewer, lá será possível visualizar o notebook completo com os gráficos interativos.
 
